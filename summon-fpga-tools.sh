@@ -17,7 +17,7 @@
 #
 # apt-get install flex bison libgmp3-dev libmpfr-dev libncurses5-dev \
 # libmpc-dev autoconf texinfo build-essential libftdi-dev zlib1g-dev git \
-# gperf
+# gperf libeigen3-dev
 #
 # Or on Ubuntu Maverick give `apt-get build-dep gcc-4.5` a try.
 #
